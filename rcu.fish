@@ -1,7 +1,7 @@
 # !/usr/bin/env fish
 
 # Hi OwO~
-# Are u found a bug? contact bin134201@gmail.com to report!
+# Are u found a bug? please reportthe that bug in github issues tab! thanks!!
 # Thx!!
 
 function rcu
