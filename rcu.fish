@@ -1,7 +1,9 @@
 # !/usr/bin/env fish
 
 # Hi OwO~
-# Are u found a bug? contact bin134201@gmail.com to report❗
+# Are u found a bug? contact bin134201@gmail.com to report!
+# Thx!!
+
 function rcu
     argparse \
         B/better-random-logic \
