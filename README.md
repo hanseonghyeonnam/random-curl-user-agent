@@ -35,4 +35,4 @@ Makes curl's user agent to random.
 >    ```
 
 4. **I found a bug!**
-  > Please contact 'bin134201@gmail.com' to report!
+  > Please report the that bug in issues tab. thanks!
