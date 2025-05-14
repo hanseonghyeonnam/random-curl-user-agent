@@ -10,9 +10,10 @@ Makes curl's user agent to random.
 
 
  ### Options:
- - --RCU-better-random-logic, --better-random-logic, -B: Make rcu's random useragent logic to hard.
- - --Return-false-when-error-occurred, --out-when-error, -O: Return 'false' when error occurred. this can be used in the error catch logc.
-  
+ - --better-random-logic, -B: Make rcu's random useragent logic to hard.
+ - --out-when-error, -O: Return 'false' when error occurred. this can be used in the error catch logc.
+ - --custom-user-agent, -C [user-agent]: Add you'r custom user-agent in curl. that will used after as random!
+ - --use-custom-user-agent, -U [user-agent]: Make RCU will choice the custom user agent of the this arguemnt!
 ## Help!
 1. **Required library?**
  > Nothing, just need a curl and dependencies of that!
@@ -32,3 +33,6 @@ Makes curl's user agent to random.
 >    ```fish
 >    rcu [...]
 >    ```
+
+4. **I found a bug!**
+  > Please contact 'bin134201@gmail.com' to report!
